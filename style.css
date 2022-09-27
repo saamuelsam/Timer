@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+
+div {
+    text-align: center;
+
+}
+
+
+button {
+    height: 2.5em;
+    width: 5.5em;
+    border-radius: 15px;
+    border-color: white;
+    color: rgb(0, 0, 0);
+    
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn {
+    background-color: #8a0af2;
+}
+
+.pause-btn {
+    background-color: #8a0af2;
+}
+
+.stop-btn {
+    background-color: #8a0af2;
+}
